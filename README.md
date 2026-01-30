@@ -24,7 +24,8 @@ techniques based on customer demographic and service usage data.
 ## Results
 The model achieved good performance in predicting customer churn
 and provided insights into factors affecting customer retention.
-
+#To Try App:
+https://telco-customer-churn-gbqgf9j9mjpew63yz9dvce.streamlit.app/
 ##  How to Run the Project
 ```bash
 pip install -r requirements.txt
